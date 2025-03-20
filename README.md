@@ -1,7 +1,7 @@
 # Roblox
 
 This is a version of Roblox from 2016 with its source code fixed. The base used is from git.rip, from https://git.rip/exconfidential/roblox/roblox.<br>
-Join our discord server to get a compileable version of this source code, including a better tutorial.
+Join our discord server to get a compileable version of the source code, including a better tutorial.
 
 ## Build
 
